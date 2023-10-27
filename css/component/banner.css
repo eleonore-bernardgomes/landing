@@ -1,0 +1,19 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.6) 0, rgba(0,0,0,0.0) 60%), url(../../images/pain.png);
+	color: white;
+	padding: 150px 0px;
+	background-position: left;
+	background-size: cover;
+}
+
+.banner h1 {
+	font-size: 55px;
+	color: white;
+}
+
+.banner h2 {
+	font-size: 35px;
+	opacity: 1;
+	margin-bottom: 45px;
+	color: rgb(250,250,250);
+}
